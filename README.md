@@ -65,5 +65,6 @@ DataStructures satisfying above properties and hence compatible with URA are :: 
 <b><i><u> Till Then ENJOY!! </u></i></b>
 <br>---<br>
 <u>Vivek Mangla</u><br> 
-<u>anonymousinglyanonymous@gmail.com</u><br>
-<u>vivek.funtoosh231@gmail.com</u>
+<u>vivek.funeesh@gmail.com</u><br>
+<u>NO LONGER MONITORED anonymousinglyanonymous@gmail.com</u><br>
+<u>DELETED vivek.funtoosh231@gmail.com</u>
