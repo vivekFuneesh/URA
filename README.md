@@ -1,7 +1,7 @@
 # URA-UnDelayed-Random-Algorithm-
                                           Under MIT Licence
                                     Copyright (c) 2016 "Vivek Mangla"
-An efficient & small algorithm for different types of random insert , delete , retrieve data along with that's implementation on AVL TREE.<br>
+An efficient & small algorithm for different types of random insert(<b>shift pre-occupied indexes</b>) , delete , retrieve data along with that's implementation on AVL TREE.<br>
 A FAST substitute for ArrayList , Array  , OBST , AVL TREE , Self Balancing Trees and few other collections in the cases, if index/key collision occurs data shifting is required.<br>
 Performs faster  in cases where during insertion on pre-occupied index , previous data has to be shifted instead of replacement.<br>
 
@@ -60,11 +60,10 @@ This algorithm(URA) will work for specific data structures only .Study is going 
 3.)<b><i><u>VMFactor</u></i></b> must be updated accordingly in the decision node of index collided path.<br>
 DataStructures satisfying above properties and hence compatible with URA are :: LinkedList ( Single and Double ) , BST , AVL TREE .<br><br>
 
-<b>::</b>I am also developing it further to provide further types of insertions , deletions like if insert on same index :: shift backwards OR re-trigger that insertion to some other point via some algo and much more .<br>
+<b>::</b>Further research might be done to provide further types of insertions , deletions like if insert on same index :: shift backwards OR re-trigger that insertion to some other point via some algo and much more .<br>
 <br>
-<b><i><u> Till Then ENJOY!! </u></i></b>
 <br>---<br>
 <u>Vivek Mangla</u><br> 
 <u>vivek.funeesh@gmail.com</u><br>
-<u>NO LONGER MONITORED anonymousinglyanonymous@gmail.com</u><br>
-<u>DELETED vivek.funtoosh231@gmail.com</u>
+<u><b>NO LONGER MONITORED</b> anonymousinglyanonymous@gmail.com</u><br>
+<u><b>DELETED</b> vivek.funtoosh231@gmail.com</u>
